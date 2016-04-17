@@ -1,0 +1,5 @@
+#!/bin/sh
+
+PYTHON=`which python`
+
+${PYTHON} validate_yaml.py $1

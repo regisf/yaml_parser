@@ -1,0 +1,71 @@
+
+
+worth:
+stained_glass: 0.23
+ 'stained_glass:16':0.23
+ 'stained_glass:15':0.23
+ 'stained_glass:14':0.23
+ 'stained_glass:13':0.23
+ 'stained_glass:12':0.23
+ 'stained_glass:11':0.23
+ 'stained_glass:10':0.23
+ 'stained_glass:9':0.23
+ 'stained_glass:8':0.23
+ 'stained_glass:7':0.23
+ 'stained_glass:6':0.23
+ 'stained_glass:5':0.23
+ 'stained_glass:4':0.23
+ 'stained_glass:3':0.23
+ 'stained_glass:2':0.23
+glass: 9.14
+bookshelf: 0.8
+stonebrick: 0.11
+ 'stonebrick:1': 6.4
+planks: 0.16
+prismarine_shard: 0.31
+stone: 0.10
+ 'stone:5': 0.40
+ 'stone:3': 0.4
+cobblestone: 0.09
+log: 0.38
+gravel: 0.06
+sponge: 0.31
+obsidian: 0.94
+carrot: 0.25
+reeds: 0.38
+nether_wart: 0.19
+potato: 0.25
+sugar: 0.32
+melon: 0.50
+wheat: 0.31
+pumpkin: 0.25
+diamond: 5.00
+gold_ingot: 1.00
+iron_ingot: 0.63
+emerald: 2.50
+coal: 0.16
+redstone: 0.12
+rabbit_foot: 0.16
+glowstone_dust: 0.25
+ghast_tear: 1.00
+fermented_spider_eye: 1.00
+speckled_melon: 1.00
+golden_carrot: 1.50
+chicken: 0.38
+rabbit: 0.38
+mutton: 0.6
+fish: 0.16
+bone: 0.03
+rotten_flesh: 0.08
+egg: 0.19
+string: 0.25
+gunpowder: 0.32
+spider_eye: 0.32
+dye: 0.19
+ 'dye:3':0.25
+ender_pearl: 0.63
+blaze_rod: 0.63
+feather: 0.4
+slime_ball: 0.32
+leather: 0.25
+beef: 0.38
